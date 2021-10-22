@@ -1,5 +1,6 @@
 # EfficientDet
 EfficientDet: Paper Review for GNR638
+Paper Review Doc link: Click [Here](https://docs.google.com/document/d/1rU2H9isPGMrzohhy6SErs75KUc3t5fUWlU9PrExB2pg/edit?usp=sharing)
 EffientDet Performance and Size ccomparison on COCO test-dev Dataset<br/><br/>
 ![alt text](https://github.com/zestyoreo/EfficientDet/blob/main/COCO%20Dataset%20graph.png)<br/><br/><br/><br/>
 Feature Fusion Network Architechtures<br/><br/>
